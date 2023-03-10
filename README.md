@@ -6,10 +6,9 @@ To use this script, you will need to provide a list of of names in an Excel file
 
 ### Prerequisites
 This script requires the following Python libraries to be installed:
-
-pandas
-numpy
-scikit-learn
+- pandas
+- numpy
+- scikit-learn
 
 ### How it works
 The script uses the cosine similarity between two vectors to calculate the similarity between two strings. This allows it to identify matches between strings that are not exact matches.
